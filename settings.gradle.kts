@@ -1,4 +1,4 @@
-rootProject.name = "cpu-info"
+rootProject.name = "palmpilot"
 
 pluginManagement {
     repositories {
