@@ -1,0 +1,155 @@
+<!--
+  ~ Copyright 2017 KG Soft
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="action_not_supported">Akce není dostupná</string>
+
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+
+    <string name="cpu">CPU</string>
+    <string name="gpu">GPU</string>
+    <string name="ram">RAM</string>
+    <string name="storage">Úložiště</string>
+    <string name="screen">Obrazovka</string>
+    <string name="hardware">Hardware</string>
+    <string name="sensors">Senzory</string>
+
+    <string name="processes">Procesy</string>
+    <string name="applications">Aplikace</string>
+    <string name="temp">Teplota</string>
+    <string name="settings">Nastavení</string>
+
+    <string name="running_gc">Spouští se Garbage Collector</string>
+
+    <string name="app_open">Nelze otevřít tuto aplikaci</string>
+    <string name="cpu_open">Neotevírej mě dvakrát :-)</string>
+    <string name="cpu_uninstall">Tohle nejde :-(</string>
+    <string name="native_libs">Nativní knihovny</string>
+    <string name="apps_show_system_apps">Zobrazit systémové aplikace</string>
+    <string name="apps_sort_order">Řazení</string>
+
+    <string name="vulkan_version">Vulkan verze</string>
+    <string name="metal_version">Metal verze</string>
+    <string name="gles_version">GLES verze</string>
+    <string name="vendor">Výrobce</string>
+    <string name="version">Verze</string>
+    <string name="renderer">Renderer</string>
+    <string name="extensions">Rozšíření</string>
+
+    <string name="total_memory">Celková paměť</string>
+    <string name="available_memory">Dostupná paměť</string>
+    <string name="threshold">Práh</string>
+
+    <string name="internal">Interní</string>
+    <string name="external">Externí</string>
+
+    <string name="screen_class">Třída obrazovky</string>
+    <string name="small">Malá</string>
+    <string name="normal">Normální</string>
+    <string name="large">Velká</string>
+    <string name="unknown">Neznámá</string>
+    <string name="density_class">Třída hustoty</string>
+    <string name="width">Šířka</string>
+    <string name="height">Výška</string>
+    <string name="dp_width">Šířka (dp)</string>
+    <string name="dp_height">Výška (dp)</string>
+    <string name="density">Hustota</string>
+    <string name="absolute_width">Absolutní šířka</string>
+    <string name="absolute_height">Absolutní výška</string>
+    <string name="refresh_rate">Obnovovací frekvence</string>
+    <string name="orientation">Orientace</string>
+    <string name="camera_lens_number">Počet čoček</string>
+    <string name="screen_scale">Měřítko obrazovky</string>
+    <string name="screen_brightness">Jas obrazovky</string>
+    <string name="screen_calibrated_latency">Kalibrovaná latence</string>
+
+    <string name="codename">Kódové označení</string>
+    <string name="brand">Značka</string>
+    <string name="model">Model</string>
+    <string name="manufacturer">Výrobce</string>
+    <string name="board">Deska</string>
+    <string name="serial">Sériové číslo</string>
+    <string name="rooted">Root</string>
+    <string name="encrypted_storage">Šifrované úložiště</string>
+    <string name="security_providers">Poskytovatelé zabezpečení</string>
+    <string name="os_multitasking_supported">Podpora multitaskingu</string>
+    <string name="os_vendor_identifier">Identifikátor dodavatele</string>
+
+    <string name="battery">Baterie</string>
+    <string name="wireless">Bezdrátové připojení</string>
+    <string name="sound_card">Zvuková karta</string>
+    <string name="level">Úroveň</string>
+    <string name="voltage">Napětí</string>
+    <string name="temperature">Teplota</string>
+    <string name="capacity">Kapacita</string>
+    <string name="technology">Technologie</string>
+    <string name="is_charging">Nabíjí se</string>
+    <string name="charging_type">Typ nabíjení</string>
+    <string name="wifi_mac">Wi-Fi MAC</string>
+    <string name="bluetooth_mac">Bluetooth MAC</string>
+    <string name="amount">Množství</string>
+    <string name="card">Karta</string>
+    <string name="cameras">Fotoaparáty</string>
+    <string name="camera">Fotoaparát</string>
+    <string name="type">Typ</string>
+    <string name="front">Přední</string>
+    <string name="camera_external">Externí</string>
+    <string name="back">Zadní</string>
+    <string name="battery_health">Zdraví</string>
+    <string name="battery_cold">Studená</string>
+    <string name="battery_good">Dobrá</string>
+    <string name="battery_dead">Vybitá</string>
+    <string name="battery_overheat">Přehřátá</string>
+    <string name="battery_overvoltage">Přepětí</string>
+    <string name="battery_unknown">Neznámá</string>
+    <string name="battery_unspecified_failure">Nespecifikovaná chyba</string>
+    <string name="battery_state">Stav baterie</string>
+    <string name="battery_unplugged">Odpojeno</string>
+    <string name="battery_charging">Nabíjení</string>
+    <string name="battery_full">Plně nabitá</string>
+    <string name="ir_emitter">IR vysílač</string>
+    <string name="hardware_microphones">Mikrofony</string>
+    <string name="hardware_computer_system">Počítačový systém</string>
+    <string name="hardware_motherboard">Základní deska</string>
+    <string name="hardware_network_interfaces">Síťové rozhraní</string>
+    <string name="hardware_power_sources">Zdroje energie</string>
+
+    <string name="general">Obecné</string>
+    <string name="temperature_unit">Jednotka teploty</string>
+    <string name="pref_theme_dark">Tmavý</string>
+    <string name="pref_theme_light">Světlý</string>
+    <string name="pref_theme_default">Výchozí systém</string>
+    <string name="pref_theme">Motiv</string>
+    <string name="pref_theme_choose">Vybrat motiv</string>
+
+    <string name="no_temp_data">Je mi líto, nemohu najít žádné teplotní senzory :-(</string>
+    <string name="temp_thermal_state">Tepelný stav: %1$s</string>
+    <string name="temp_thermal_state_nominal">Nominální</string>
+    <string name="temp_thermal_state_fair">Dobrý</string>
+    <string name="temp_thermal_state_serious">Vážný</string>
+    <string name="temp_thermal_state_critical">Kritický</string>
+
+    <!--Sensors-->
+    <string name="sensors_accelerometer">Akcelerometr</string>
+    <string name="sensors_cpu_temperature">Teplota CPU</string>
+    <string name="sensors_cpu_voltage">Napětí CPU</string>
+    <string name="sensors_fan_speeds">Rychlosti ventilátoru</string>
+
+</resources>
+
